@@ -1,4 +1,4 @@
-Shashank Priyadarshi(AM.EN.U4AIE19060)
+Sumesh Shenoy(Elc13078)
 Ashwin R(AM.EN.U4CSE19060)
 Rajendra Sai Immadi(AM.EN.U4CSE17060)
 gopavasant(AM.EN.U4CSE17060)
